@@ -20,7 +20,7 @@
 
 <h2>Usage</h2>
 
-<p>To use the project, you can download the dataset from the link provided above and save it to your local machine -- you can also use the function I created to get the data from this repository. Then, open the <code>Energy Analysis.ipynb</code> Jupyter notebook file and run the cells sequentially. </p>
+<p>To use the project, you can download the dataset from the link provided above and save it to your local machine – you can also use the function I created to get the data from this repository. Then, open the <code>Energy Analysis.ipynb</code> Jupyter notebook file and run the cells sequentially. </p>
 
 <p>The notebook includes cells to:</p>
 
