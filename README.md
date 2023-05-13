@@ -9,7 +9,7 @@
 
 <p>The dataset covers a range of energy products, including hydro, wind, solar, geothermal, nuclear, fossil fuels, and others. Energy production is measured in gigawatt-hours (GWh). The primary focus of the project is to compare the energy production and consumption in Brazil with that of other countries.</p>
 
-<h2>Installation</h2>
+<h2>Libraries</h2>
 
 <p>The project requires Python 3.x and the following Python libraries:</p>
 
@@ -18,10 +18,6 @@
 	<li>Matplotlib</li>
 	<li>Seaborn</li>
 </ul>
-
-<p>These libraries can be installed using pip:</p>
-
-<pre><code>pip install pandas matplotlib seaborn</code></pre>
 
 <h2>Usage</h2>
 
