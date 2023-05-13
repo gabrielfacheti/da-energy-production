@@ -25,8 +25,9 @@
 <p>The notebook includes cells to:</p>
 
 <ul>
-	<li>Load the dataset into a Pandas DataFrame</li>
+	<li>Retrieve and load the dataset into a Pandas DataFrame</li>
 	<li>Clean and preprocess the data</li>
+	<li>Group and filter the DataFrame to analyze different proposals</li>
 	<li>Visualize the data using Matplotlib and Seaborn</li>
 </ul>
 
