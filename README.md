@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Data Analysis Project: Monthly Electricity Statistics</title>
-</head>
 <body>
 	<h1>Data Analysis Project: Monthly Electricity Statistics</h1>
 <p>This project is a data analysis project developed using Python. The objective is to analyze and gain insights from the Monthly Electricity Statistics dataset. The dataset includes information about energy production in various countries on a monthly basis from 2010 to 2022. The data is available <a href="http://data.un.org/Data.aspx?d=EDATA&amp;f=cmID%3aEL">here</a>.</p>
