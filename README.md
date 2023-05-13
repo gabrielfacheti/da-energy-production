@@ -2,7 +2,7 @@
 <html>
 <body>
 	<h1>Data Analysis Project: Monthly Electricity Statistics</h1>
-<p>This project is a data analysis project developed using Python. The objective is to analyze and gain insights from the Monthly Electricity Statistics dataset. The dataset includes information about energy production in various countries on a monthly basis from 2010 to 2022. The data is available <a href="https://www.kaggle.com/datasets/ccanb23/iea-monthly-electricity-statistics">here</a>.</p>
+<p>This project is a data analysis project developed using Python. The objective is to analyze and gain insights from the Monthly Electricity Statistics dataset. The dataset includes information about energy production in various countries on a monthly basis from 2010 to 2022. The data is available <a href="https://www.kaggle.com/datasets/ccanb23/iea-monthly-electricity-statistics">here</a> (also in this repository).</p>
 
 <p>The dataset covers a range of energy products, including hydro, wind, solar, geothermal, nuclear, fossil fuels, and others. Energy production is measured in gigawatt-hours (GWh). The primary focus of the project is to compare the energy production and consumption in Brazil with that of other countries.</p>
 
