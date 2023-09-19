@@ -33,14 +33,3 @@
 
 <p>The notebook produces various plots and visualizations that provide insights into the energy production and consumption trends in different countries.</p>
 <p>You can also modify the notebook and customize the analysis according to your requirements. If you have any issues or questions, please feel free to contact the project contributors.</p>
-
-<h2>Contributing</h2>
-
-<p>Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
-
-<h2>Contact</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabrielfacheti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielfacheti" height="30" width="40" /></a>
-</p>
-
-📫 **fachetigabriel@gmail.com**
